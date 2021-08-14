@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 public class VertxConfigurations {
     public static void main(String[] args) {
         Vertx vertx = Vertx.vertx();
-
+        github.com:KAIQIANG-LIU/fastcx.git
     }
 
 }
